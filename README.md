@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there! Xin chào <img src="https://raw.githubusercontent.com/ntlinh16/ntlinh16/main/images/hi.gif" width="40px"/>
+----
+<samp>I'm a research engineer working in Grenoble, France.</samp>
 
-<!--
-**ntlinh16/ntlinh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>Cloud Tech is fascinating and I enjoy exploring it.</samp>
 
-Here are some ideas to get you started:
+<p align=center”>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Find me here:  
+<a href=”https://www.linkedin.com/in/ntlinh/”><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue"></a>  <a href=”mailto:ntlinh16@gmail.com”>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white">
+</a>
+</p>
+
+
