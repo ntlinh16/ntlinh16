@@ -1,6 +1,6 @@
 ## Hi there! Xin chào <img src="https://raw.githubusercontent.com/ntlinh16/ntlinh16/main/images/hi.gif" width="40px"/>
 
-<samp>I'm Linh, a research engineer in Grenoble, France.</samp>
+<samp>I'm Linh, a SRE in Antibes, France.</samp>
 
 <samp>Cloud Tech is fascinating and I enjoy exploring it.</samp>
 
